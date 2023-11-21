@@ -1,0 +1,1 @@
+# binsys_message_queue_shopDEV
